@@ -1,4 +1,5 @@
 # 11 Express.js: Note Taker
+![Github license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Task
 
@@ -55,6 +56,10 @@ Node.js
 express
 
 uuid
+
+# Deployements
+
+https://serene-oasis-62884.herokuapp.com/
 
 # Screenshot
 
